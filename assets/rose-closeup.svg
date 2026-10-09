@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" role="img" aria-labelledby="title desc">
+  <title id="title">Rose close-up illustration</title>
+  <desc id="desc">Detailed close-up of blush roses with petals and leaves.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff8f6"/>
+      <stop offset="100%" stop-color="#f3e7eb"/>
+    </linearGradient>
+    <linearGradient id="rose4" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f4d8df"/>
+      <stop offset="100%" stop-color="#d56c7d"/>
+    </linearGradient>
+    <linearGradient id="leaf4" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7ca07f"/>
+      <stop offset="100%" stop-color="#4d735b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="900" fill="url(#bg4)"/>
+  <g transform="translate(100 100)">
+    <g transform="translate(220 150)">
+      <g>
+        <path d="M140 0 C 226 -30, 289 30, 270 126 C 252 229, 150 275, 59 206 C 6 164, -8 63, 140 0Z" fill="url(#rose4)"/>
+        <path d="M100 106 C 142 62, 205 63, 236 97 C 266 130, 255 193, 203 221 C 149 252, 77 233, 54 176 C 34 128, 49 110, 100 106Z" fill="#ba5970"/>
+        <circle cx="145" cy="141" r="25" fill="#f7ddd2"/>
+        <path d="M149 146 C 138 172, 138 196, 149 224" stroke="#7a4d59" stroke-width="10" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <g transform="translate(120 70)">
+        <path d="M110 0 C 185 -26, 241 18, 230 111 C 219 210, 124 250, 52 190 C -5 138,-14 53, 110 0Z" fill="url(#rose4)"/>
+        <path d="M96 97 C 125 59, 175 60, 204 90 C 231 118, 220 172, 177 200 C 129 232, 71 211, 52 163 C 37 123, 53 106, 96 97Z" fill="#b9596d"/>
+        <circle cx="122" cy="128" r="20" fill="#f7ddd2"/>
+        <path d="M126 133 C 117 155, 118 173, 126 194" stroke="#7a4d59" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <g fill="url(#leaf4)" opacity="0.9">
+      <path d="M295 540 C 242 517, 175 527, 143 600 C 112 670, 152 746, 231 762 C 294 775, 350 728, 335 654 C 322 590, 321 560, 295 540Z"/>
+      <path d="M556 542 C 606 520, 674 530, 701 601 C 728 669, 695 744, 620 763 C 552 780, 487 736, 500 661 C 513 595, 517 566, 556 542Z"/>
+      <path d="M425 615 C 380 577, 327 582, 296 635 C 266 689, 280 754, 358 770 C 418 783, 474 750, 470 688 C 467 653, 461 634, 425 615Z"/>
+    </g>
+
+    <g stroke="#6b8a66" stroke-width="10" stroke-linecap="round" fill="none" opacity="0.9">
+      <path d="M198 430 C 204 500, 210 553, 258 607"/>
+      <path d="M304 410 C 322 470, 345 525, 398 586"/>
+      <path d="M579 430 C 560 500, 545 552, 495 608"/>
+      <path d="M470 416 C 453 474, 435 524, 383 582"/>
+    </g>
+  </g>
+</svg>

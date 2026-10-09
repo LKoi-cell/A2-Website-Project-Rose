@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Rose bouquet</title>
+  <desc id="desc">A bouquet of blush roses in a soft floral arrangement.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#fff6f2"/>
+      <stop offset="100%" stop-color="#f3e5ea"/>
+    </linearGradient>
+    <linearGradient id="petal2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#f7dfe6"/>
+      <stop offset="100%" stop-color="#d7818f"/>
+    </linearGradient>
+    <linearGradient id="leaf2" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7aa681"/>
+      <stop offset="100%" stop-color="#4a7859"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="800" fill="url(#bg2)"/>
+  <ellipse cx="410" cy="700" rx="250" ry="60" fill="#e8d7da" opacity="0.7"/>
+
+  <g transform="translate(140 120)">
+    <g fill="url(#leaf2)">
+      <path d="M145 430 C 76 380, 54 285, 102 230 C 154 174, 236 175, 270 244 C 300 302, 281 384, 215 420 C 188 437, 168 441, 145 430Z"/>
+      <path d="M470 420 C 553 350, 625 331, 662 373 C 698 415, 687 507, 605 540 C 529 570, 451 525, 439 474 C 431 443, 447 432, 470 420Z"/>
+      <path d="M332 448 C 298 388, 289 305, 337 250 C 392 188, 487 185, 533 246 C 571 295, 558 382, 489 432 C 429 475, 367 481, 332 448Z"/>
+    </g>
+
+    <g transform="translate(70 100)">
+      <g transform="translate(0 0)">
+        <path d="M102 0 C 182 -30, 235 18, 220 110 C 204 217, 112 241, 46 184 C -8 138,-11 46, 102 0Z" fill="url(#petal2)"/>
+        <path d="M82 86 C 116 60, 165 62, 195 90 C 224 116, 215 166, 176 192 C 130 223, 72 202, 52 160 C 35 125, 48 103, 82 86Z" fill="#c25f78"/>
+        <circle cx="117" cy="118" r="20" fill="#f6dacc"/>
+        <path d="M122 121 C 116 140, 117 155, 124 176" stroke="#6d4351" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <g transform="translate(165 25)">
+        <path d="M103 0 C 183 -32, 240 20, 220 112 C 202 219, 109 240, 46 185 C -8 136,-8 49, 103 0Z" fill="url(#petal2)"/>
+        <path d="M79 86 C 115 58, 168 62, 196 89 C 226 117, 216 168, 174 193 C 129 220, 72 202, 55 161 C 38 126, 48 105, 79 86Z" fill="#c25f78"/>
+        <circle cx="116" cy="118" r="20" fill="#f6dacc"/>
+        <path d="M121 121 C 115 140, 117 155, 123 176" stroke="#6d4351" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <g transform="translate(340 0)">
+        <path d="M106 0 C 184 -33, 245 17, 226 112 C 208 214, 112 242, 48 184 C -9 128,-10 49, 106 0Z" fill="url(#petal2)"/>
+        <path d="M87 88 C 123 58, 172 61, 198 88 C 225 117, 216 170, 175 194 C 130 221, 73 201, 52 160 C 35 125, 49 105, 87 88Z" fill="#c25f78"/>
+        <circle cx="120" cy="120" r="20" fill="#f6dacc"/>
+        <path d="M125 124 C 117 143, 118 158, 126 177" stroke="#6d4351" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+
+    <g transform="translate(90 180)">
+      <g transform="translate(140 190)">
+        <path d="M104 0 C 184 -30, 240 17, 220 105 C 201 215, 109 240, 42 182 C -13 132,-7 50, 104 0Z" fill="url(#petal2)"/>
+        <path d="M83 86 C 118 58, 170 63, 198 89 C 225 117, 213 170, 171 195 C 126 221, 69 203, 50 160 C 35 126, 46 106, 83 86Z" fill="#c25f78"/>
+        <circle cx="117" cy="117" r="20" fill="#f6dacc"/>
+        <path d="M121 121 C 116 140, 116 156, 123 176" stroke="#6d4351" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+
+      <g transform="translate(280 170)">
+        <path d="M96 0 C 176 -30, 232 18, 214 108 C 196 212, 105 238, 40 181 C -11 134,-10 50, 96 0Z" fill="url(#petal2)"/>
+        <path d="M78 87 C 110 58, 162 61, 191 87 C 218 114, 207 169, 165 195 C 120 221, 67 205, 49 160 C 37 127, 46 105, 78 87Z" fill="#c25f78"/>
+        <circle cx="110" cy="116" r="20" fill="#f6dacc"/>
+        <path d="M115 120 C 109 140, 110 155, 117 176" stroke="#6d4351" stroke-width="8" fill="none" stroke-linecap="round"/>
+      </g>
+    </g>
+  </g>
+</svg>
